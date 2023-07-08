@@ -1,0 +1,138 @@
+/*body*/
+body
+{
+	background-color:#cdf0f1
+}
+/*header*/
+header table     
+{
+	width:100%;
+	border:3px solid black;
+	border-radius:2%;
+	background-color:transparent;
+	text-align:right;
+}
+header i{
+	text-align:right;
+	color:black;
+	padding :20px;
+}
+header p
+{
+	text-align:center;
+	color:black;
+	font-size:300%;
+}
+
+
+/*nav*/
+nav ul     
+{        
+	width:100%;
+list-style-type:none;
+display:inline;
+}
+ nav li a{
+float:left;
+display:inline;
+padding:8px;
+display:block;
+color:white;
+ background-color:blue;
+}
+nav li a:hover{
+	background-color:white;
+	color:black;
+}
+/*section*/
+section b
+{
+	color:black;
+	font-size:300%;
+}
+section p {
+  background-repeat:no-repeat;
+	background-attachment:fixed;
+	background-size:100% 100%;
+	text-align:center;
+}
+.whiteletter
+{
+	color:white;
+}
+section #serviceimg{
+	background-image:url('https://img.rasset.ie/0015506e-500.jpg');
+}
+/*article*/
+article h1
+{
+	text-align:center;
+	color:#e6390de7;
+	font-size:240%
+}
+article h2
+{
+	text-align:center;
+	color:blue;
+	font-size:210%;
+}
+ article p
+{
+	font-size:100%;
+	text-align:center;
+}
+article img
+{
+	height:300px;
+    width:300px;
+}
+article table
+{
+    width:100%;
+}
+article table.s1width td:nth-child(1)
+{
+	width:25%;
+}
+article table.s1width td:nth-child(2)
+{
+	width:75%;
+	font-size:150%;
+	text-align:center;
+}
+article table.s2width td:nth-child(2)
+{
+	width:25%;
+}
+article table.s2width td:nth-child(1)
+{
+	width:75%;
+	font-size:150%;
+	text-align:center;
+}
+article span middlecolor
+{
+	color:#e6390de7;
+}
+
+/*footer*/
+footer table{
+	color:white;
+	font-size:150%;
+	width:100%;
+}
+footer tr a{
+	color:white;
+}
+footer  td a{
+	color:white;
+	text-decoration:none;
+}
+footer table a {
+	background-color:transparent;
+}
+footer table i{
+	color:white;
+	height:30;
+	width:30;
+}

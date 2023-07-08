@@ -1,0 +1,183 @@
+/*body*/
+body
+{
+	background-color:#cdf0f1
+}
+/*header*/
+header table     
+{
+	width:100%;
+	border:3px solid black;
+	border-radius:2%;
+	background-color:transparent;
+	text-align:right;
+}
+header i{
+	text-align:right;
+	color:black;
+	padding :20px;
+}
+header p
+{
+	text-align:center;
+	color:black;
+	font-size:300%;
+}
+
+/*nav*/
+nav ul     
+{        
+	width:100%;
+list-style-type:none;
+}
+ nav li a{
+float:left;
+display:inline;
+padding:8px;
+display:block;
+color:white;
+ background-color:blue;
+}
+nav li a:hover{
+	background-color:white;
+	color:black;
+}
+/*section*/
+section b
+{
+	color:black;
+	font-size:300%;
+}
+section p {
+  background-repeat:no-repeat;
+	background-attachment:fixed;
+	background-size:100% 100%;
+	text-align:center;
+}
+.whiteletter
+{
+	color:white;
+}
+section #contactimg{
+	background-image:url('https://i1.wp.com/mcpower.com.au/wp-content/uploads/2017/11/solar-energy-hampshire-sunsmart-2-630-2.jpg?resize=630%2C355');
+}
+/*article*/
+article h1
+{
+	text-align:center;
+	color:#e6390de7;
+	font-size:240%
+}
+article h2
+{
+	text-align:center;
+	color:blue;
+	font-size:210%;
+}
+ article p
+{
+	font-size:150%;
+	text-align:center;
+}
+article img
+{
+	height:300px;
+    width:300px;
+}
+article table{
+	width:100%;
+}
+article table .tableleft{
+	width:35%;
+}
+article table .tableright{
+	width:65%;
+	text-align:left;
+}
+article form table:hover{
+	opacity:95%;
+	border: 2px solid blue;
+  outline-style: solid;
+  outline-color: blue;
+  outline-width: 2px;
+}
+article form table
+{
+	
+	
+    width:100%;
+	opacity:50%;
+}
+article form td{
+	text-align:center;
+	width:40%;
+	height:60px;
+}
+article form select 
+{
+	width:60%;
+	height:35px;
+	text-align:center;
+	border:none;
+}
+article form select:focus{
+	transition:width 2s height 4s;
+	
+}
+article form textarea
+{
+	width:80%;
+	text-align:center;
+	height:100px;
+	border:none;
+	font-size:18px;
+	padding:20px 15px;
+}
+article form input[type=text]{
+	width:60%;
+	height:35px;
+	border:none;
+	font-size:15px;
+}
+article form submit:hover{
+	background-color:blue;
+	box-shadow:5px blue;
+	transition:width 2s;
+}
+article form sup{
+	color:red;
+	font-size:20px;
+}
+	
+	
+address
+{
+	text-align:center;
+    font-size:140%;
+    font-style:italic;
+}
+article table td{
+	text-align:center;
+}
+
+/*footer*/
+footer table{
+	color:white;
+	font-size:150%;
+	width:100%;
+}
+footer tr a{
+	color:white;
+}
+footer  td a{
+	color:white;
+	text-decoration:none;
+}
+footer table a {
+	background-color:transparent;
+}
+footer table i{
+	color:white;
+	height:30;
+	width:30;
+}

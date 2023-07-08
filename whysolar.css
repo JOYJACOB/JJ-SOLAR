@@ -1,0 +1,119 @@
+/*body*/
+body
+{
+	background-color:#cdf0f1
+}
+/*header*/
+header table     
+{
+	width:100%;
+	border:3px solid black;
+	border-radius:2%;
+	background-color:transparent;
+	text-align:right;
+}
+header i{
+	text-align:right;
+	color:black;
+	padding :20px;
+}
+header p
+{
+	text-align:center;
+	color:black;
+	font-size:300%;
+}
+
+
+/*nav*/
+nav ul     
+{        
+	width:100%;
+list-style-type:none;
+}
+ nav li a{
+float:left;
+display:inline;
+padding:8px;
+display:block;
+color:white;
+ background-color:blue;
+}
+nav li a:hover{
+	background-color:white;
+	color:black;
+}
+/*section*/
+section b
+{
+	color:black;
+	font-size:300%;
+}
+section p {
+  background-repeat:no-repeat;
+	background-attachment:fixed;
+	background-size:100% 100%;
+	text-align:center;
+}
+.whiteletter
+{
+	color:white;
+}
+section #whysolarimg{
+	background-image:url('https://www.clean-energy-ideas.com/wp-content/uploads/2019/03/solar-energy-benefits.jpg');
+}
+/*article*/
+article h1
+{
+	text-align:center;
+	color:#e6390de7;
+	font-size:240%
+}
+article h2
+{
+	text-align:center;
+	color:blue;
+	font-size:210%;
+}
+ article p
+{
+	font-size:150%;
+	text-align:center;
+}
+article img
+{
+	height:300px;
+    width:300px;
+}
+article table
+{
+    width:100%;
+}
+article ol
+{
+	list-style-type:circle;
+	text-align:center;
+	color:black;
+	font-size:150%;
+}
+  /*footer*/
+footer table{
+	color:white;
+	font-size:150%;
+	width:100%;
+}
+footer tr a{
+	color:white;
+}
+footer  td a{
+	color:white;
+	text-decoration:none;
+}
+footer table a {
+	background-color:transparent;
+}
+footer table i{
+	color:white;
+	height:30;
+	width:30;
+}

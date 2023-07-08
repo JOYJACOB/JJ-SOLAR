@@ -1,0 +1,184 @@
+/*body*/
+body
+{
+	background-color:#cdf0f1
+}
+/*header*/
+header table     
+{
+	width:100%;
+	border:3px solid black;
+	border-radius:2%;
+	background-color:transparent;
+	text-align:right;
+}
+header i{
+	text-align:right;
+	color:black;
+	padding :20px;
+}
+header p
+{
+	text-align:center;
+	color:black;
+	font-size:300%;
+}
+
+/*nav*/
+nav ul     
+{        
+	width:100%;
+list-style-type:none;
+}
+ nav li a{
+float:left;
+display:inline;
+padding:8px;
+display:block;
+color:white;
+ background-color:blue;
+}
+nav li a:hover{
+	background-color:white;
+	color:black;
+}
+/*section*/
+section b
+{
+	color:black;
+	font-size:300%;
+}
+section p {
+  background-repeat:no-repeat;
+	background-attachment:fixed;
+	background-size:100% 100%;
+	text-align:center;
+}
+.whiteletter
+{
+	color:white;
+}
+section #newsimg{
+	background-image:url('https://arenco.com.sa/wp-content/uploads/2019/12/advantages-of-solar-energy-800x601-731x549.jpg');
+}
+/*article*/
+article h1
+{
+	text-align:center;
+	color:#e6390de7;
+	font-size:240%
+}
+article h2
+{
+	text-align:center;
+	color:blue;
+	font-size:210%;
+}
+ article p
+{
+	font-size:150%;
+	text-align:center;
+}
+article img
+{
+	height:300px;
+    width:300px;
+}
+article table
+{
+    width:100%;
+}
+.ifram{
+border:1px solid black;
+background-color:white;
+height:auto;
+width:100%;
+}
+iframe
+{
+	height:600px;
+}
+.ifram2{
+padding:15px;
+text-align:center;
+}
+.newstable
+{
+width:100%;
+}
+.newstable src{
+height:500px;
+width:500px;
+}
+
+article .pmtable td:nth-child(1)
+{
+	width:25%;
+	text-align:right;
+}
+article .pmtable td:nth-child(2)
+{
+	width:75%;
+	font-size:100%;
+    text-align:right;
+}
+article a #schmes 
+{
+	text-align:center;
+	font-size:50px;
+}
+	
+article #modi
+{
+	width:100%;
+}
+article #modi2
+{
+	width:100%;
+	height:450px;
+}
+.new1 img{
+height:400px;
+width:100%;
+}
+.new1{
+border:1px solid black;
+background-color:white;
+text-align:center;
+height:auto;
+width:100%;
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.new11{
+padding:10px;
+text-align:center;
+}
+/*footer*/
+footer {
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	background-size:100% 100%;
+}
+footer table{
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	background-size:100% 100% ;
+	color:white;
+	font-size:150%;
+	width:100%;
+}
+footer tr a{
+	color:white;
+}
+footer  td a{
+	color:white;
+	text-decoration:none;
+}
+footer table a {
+	background-color:transparent;
+}
+footer table i{
+	color:white;
+	height:30;
+	width:30;
+}
